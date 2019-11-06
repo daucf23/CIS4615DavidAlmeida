@@ -1,5 +1,7 @@
 // MET00-J. Validate method arguments
-import java.util.Scanner;
+// Fixed on 11_5_2019
+
+
 
 public class R06_MET00_J 
 {
