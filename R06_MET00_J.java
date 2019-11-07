@@ -1,7 +1,11 @@
-// MET00-J. Validate method arguments
-// Fixed on 11_5_2019
-
-
+/**************************************************************
+*
+* Rule 06, MET00 
+* 
+*  Validate method arguments
+*
+* Completed on 11_5_2019
+**************************************************************/
 
 public class R06_MET00_J 
 {

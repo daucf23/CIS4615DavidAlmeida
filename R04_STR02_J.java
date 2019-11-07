@@ -1,6 +1,11 @@
-//STR02-J. Specify an appropriate locale when comparing locale dependent information
-
-// in progress 11_6_2019
+/**************************************************************
+*
+* Rule 04, STR02 
+* 
+* Specify an appropriate locale when comparing locale dependent information
+*
+* Completed on 11_7_2019
+**************************************************************/
 
 public class R04_STR02_J 
 {    

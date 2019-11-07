@@ -1,7 +1,14 @@
-// STR01-J. Do not assume that a Java char fully represents a Unicode code point
+/**************************************************************
+*
+* Rule 04, STR01 
+* 
+* Do not assume that a Java char fully represents a Unicode code point
+*
+* Completed on 11_7_2019
+**************************************************************/
 
 import java.lang.*;
-// in progress 11_5_2019
+
 
 public class R04_STR01_J 
 {
