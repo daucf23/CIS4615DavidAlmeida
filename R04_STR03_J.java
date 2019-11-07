@@ -5,6 +5,7 @@
 * do not encode non-character data to strings
 *
 * Fixed on 11_5_2019
+* David Almeida II CIS4615 HW2
 **************************************************************/
 
 

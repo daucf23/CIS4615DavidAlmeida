@@ -5,6 +5,7 @@
 * Do not assume that a Java char fully represents a Unicode code point
 *
 * Completed on 11_7_2019
+* David Almeida II CIS4615 HW2
 **************************************************************/
 
 import java.lang.*;

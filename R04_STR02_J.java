@@ -5,6 +5,7 @@
 * Specify an appropriate locale when comparing locale dependent information
 *
 * Completed on 11_7_2019
+* David Almeida II CIS4615 HW2
 **************************************************************/
 
 public class R04_STR02_J 

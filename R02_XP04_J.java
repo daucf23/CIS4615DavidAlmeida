@@ -6,6 +6,7 @@
 *  methods that are a different type than the collection parameter type
 *
 * Completed on 11_7_2019
+* David Almeida II CIS4615 HW2
 **************************************************************/
 
 import java.util.HashSet;

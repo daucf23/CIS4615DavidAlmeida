@@ -6,7 +6,7 @@
 * precise computation is required
 *
 * Completed on 11_7_2019
-*
+* David Almeida II CIS4615 HW2
 **************************************************************/
 
 
