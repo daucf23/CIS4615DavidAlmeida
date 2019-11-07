@@ -1,4 +1,3 @@
-
 /**************************************************************
 *
 * Rule 02, XP00 
@@ -43,7 +42,7 @@ public class R02_XP00_J {
 		  if (!someFile.delete()) {
 		    // Handle failure to delete the file
 			 //System.out.println("File could not be deleted");
-			 throw new IllegalArgumentException();
+			 throw new IllegalArgumentException("\nSEVERE: Could not Delete File!");
 		  }
 		 
 		}
