@@ -1,3 +1,14 @@
+/**************************************************************
+*
+* Rule 00, IDS 03 
+* 
+* Do not log unsanitized user input
+*
+* Completed on 11_7_2019
+**************************************************************/
+
+
+
 
 import java.util.logging.*;
 import java.util.regex.Pattern;
@@ -27,10 +38,8 @@ public class R00_IDS03_J {
 		
 		boolean loginSuccessful = false;
 		
-		//System.out.println(username + "\n" + password);
-		//System.out.println(check1 + "\n" + check2);
 
-		
+		//check username and password to determine if login is allowed.
 		if(username.compareTo(check1)== 0)
 		{
 			if(password.compareTo(check2)== 0) 
@@ -56,7 +65,7 @@ public class R00_IDS03_J {
 		
 		
 	}
-	
+	//function to sanatize user input for the username field
 	public static String sanitizeUser(String username) {
 		  return Pattern.matches("[A-Za-z0-9_]+", username)
 		      ? username : "unauthorized user";
